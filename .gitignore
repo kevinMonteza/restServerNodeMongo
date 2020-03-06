@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+#ENV
+env.js
+
+# lock
+package-lock.json
+
+# storage
+storage
